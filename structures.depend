@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1662702884 source:c:\users\brigosha_guest\desktop\divyateja\structures\union2.c
+	<stdio.h>
+
+1663053067 source:c:\users\brigosha_guest\desktop\divyateja\structures\struct9.c
+	<stdio.h>
+
+1662724485 source:c:\users\brigosha_guest\desktop\divyateja\structures\struct13.c
+	<stdio.h>
+
+1663145330 source:c:\users\brigosha_guest\desktop\divyateja\structures\struct14.c
+	<stdio.h>
+
+1663738807 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_squre1.c
+	<stdio.h>
+
+1663740932 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_odd.c
+	<stdio.h>
+
+1663741343 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_odd1.c
+	<stdio.h>
+
+1663754050 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_fact.c
+	<stdio.h>
+
+1663755110 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_fact_sum.c
+	<stdio.h>
+
+1663757591 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_fact1.c
+	<stdio.h>
+
+1663758314 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_fact2.c
+	<stdio.h>
+
+1663822736 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_dec.c
+	<stdio.h>
+
+1663823790 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_dec1.c
+	<stdio.h>
+
+1663825407 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_prime.c
+	<stdio.h>
+
+1663825968 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_prime1.c
+	<stdio.h>
+
+1663826545 source:c:\users\brigosha_guest\desktop\divyateja\structures\armstrong.c
+	<stdio.h>
+
+1663827281 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_armstrong.c
+	<stdio.h>
+
+1663827680 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_armstrong1.c
+	<stdio.h>
+
+1663828405 source:c:\users\brigosha_guest\desktop\divyateja\structures\array_large.c
+	<stdio.h>
+
+1663830422 source:c:\users\brigosha_guest\desktop\divyateja\structures\arr_sec_large.c
+	<stdio.h>
+
+1663831077 source:c:\users\brigosha_guest\desktop\divyateja\structures\pos.c
+	<stdio.h>
+
+1663831536 source:c:\users\brigosha_guest\desktop\divyateja\structures\digits.c
+	<stdio.h>
+
+1663839243 source:c:\users\brigosha_guest\desktop\divyateja\structures\arr_sec_large_fun.c
+	<stdio.h>
+
+1665555902 source:c:\users\brigosha_guest\desktop\divyateja\structures\cnt.c
+	<stdio.h>
+	<string.h>
+
+1663842171 source:c:\users\brigosha_guest\desktop\divyateja\structures\perfect_num.c
+	<stdio.h>
+
+1663844317 source:c:\users\brigosha_guest\desktop\divyateja\structures\perfect_num1.c
+	<stdio.h>
+
+1663845164 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_per1.c
+	<stdio.h>
+
+1663845702 source:c:\users\brigosha_guest\desktop\divyateja\structures\fun_per2.c
+	<stdio.h>
+
+1663912867 source:c:\users\brigosha_guest\desktop\divyateja\structures\array_max_min.c
+	<stdio.h>
+
+1663916969 source:c:\users\brigosha_guest\desktop\divyateja\structures\littile.c
+	<stdio.h>
+
+1663917644 source:c:\users\brigosha_guest\desktop\divyateja\structures\littil1.c
+	<stdio.h>
+
+1663930990 source:c:\users\brigosha_guest\desktop\divyateja\structures\littile_swap.c
+	<stdio.h>
+
+1665037077 source:c:\users\brigosha_guest\desktop\divyateja\structures\set1.c
+	<stdio.h>
+
+1665122213 source:c:\users\brigosha_guest\desktop\divyateja\structures\highorder_set.c
+	<stdio.h>
+
+1665123855 source:c:\users\brigosha_guest\desktop\divyateja\structures\highest_oreder1.c
+	<stdio.h>
+
+1665642472 source:c:\users\brigosha_guest\desktop\divyateja\structures\practicce_nth_bit.c
+	<stdio.h>
+
+1665642733 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_highbit.c
+	<stdio.h>
+
+1665643543 source:c:\users\brigosha_guest\desktop\divyateja\structures\swap_normal.c
+	<stdio.h>
+
+1665653605 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_dec_bit.c
+	<stdio.h>
+
+1666164174 source:c:\users\brigosha_guest\desktop\divyateja\structures\extract_nibble_5and 7_pos.c
+	<stdio.h>
+
+1666170868 source:c:\users\brigosha_guest\desktop\divyateja\structures\swap_partuclar_pos_nibble.c
+	<stdio.h>
+
+1667199813 source:c:\users\brigosha_guest\desktop\divyateja\structures\segments.c
+	<stdio.h>
+
+1667200954 source:c:\users\brigosha_guest\desktop\divyateja\structures\large_element_usingarray.c
+	<stdio.h>
+
+1667207020 source:c:\users\brigosha_guest\desktop\divyateja\structures\second_large_using_array.c
+	<stdio.h>
+
+1667373939 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_bitwise2.c
+	<stdio.h>
+
+1667538397 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_cnt_ones.c
+	<stdio.h>
+
+1667538952 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_set_lsbit.c
+	<stdio.h>
+
+1667540004 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_msb_bit_set.c
+	<stdio.h>
+
+1667541330 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_highest_setbit.c
+	<stdio.h>
+
+1667542032 source:c:\users\brigosha_guest\desktop\divyateja\structures\practice_lowest_setbit.c
+	<stdio.h>
+
+1668150959 source:c:\users\brigosha_guest\desktop\divyateja\structures\array_index.c
+	<stdio.h>
+
